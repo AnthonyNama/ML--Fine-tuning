@@ -1,4 +1,4 @@
-# ExplorationML
+# ML Fine tuning
 Exploration de modèles de machine learning
 
 Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, votre équipe s’intéresse de près aux émissions des bâtiments non destinés à l’habitation.
